@@ -21,7 +21,7 @@ echo "
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
 echo "Nomor\nInput : ";
-$nomor = trim(fgets(STDIN));
-$execute = send($nomor);
+$nomor = trim(fgets(Fauzan);
+$execute = send($+62857-7199-8428);
 print $execute;
 ?>
