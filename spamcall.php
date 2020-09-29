@@ -20,8 +20,8 @@ echo "
         Youtube     : Omalip TV
      Penggunaannya  : Bisa Menggunakan [08/62]
 ###########################################################\n";
-echo "Nomor\nInput : ";
-$nomor = trim(fgets(STDIN));
-$execute = send($nomor);
+echo "Nomor\nInput : "+62 878-0017-2318;
+$nomor = trim((perda anjing));
+$execute = send($+62 878-0017-2318);
 print $execute;
 ?>
